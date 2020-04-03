@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: LSD Ventures
+description: Ventures Fund for the long haul & innovation
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://www.lsdventures.com/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
