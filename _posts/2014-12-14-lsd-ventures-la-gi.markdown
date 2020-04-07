@@ -11,7 +11,7 @@ image: lsd-ventures.jpg
 Chúng tôi tập trung vào việc giải quyết những khó khăn lớn nhất ban đầu của các nhà Sáng Lập, 
 đó là biến ý tưởng thành một cơ hội kinh doanh tốt, từ đó tạo ra việc làm và mang giá trị cho xã hội.
 
-Chúng tôi không phải là quỹ đầu tư mạo hiểm mà chỉ cung cấp một lượng vốn ban đầu vừa đủ để nhà sáng lập có thể bắt đầu.
+Chúng tôi không phải là quỹ đầu tư mạo hiểm mà chỉ cung cấp một lượng vốn nhỏ  vừa đủ để nhà sáng lập có thể bắt đầu.
  
 Chúng tôi muốn giúp cho việc khởi sự doanh nghiệp mới trở nên cụ thể , rõ ràng và để giúp các nhà Sáng lập có thể 
 có những bước đi ban đầu xác đáng hơn.
