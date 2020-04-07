@@ -13,5 +13,5 @@ Chúng tôi tập trung vào việc giải quyết những khó khăn lơ
 
 Chúng tôi không phải là quỹ đầu tư mạo hiểm mà chỉ cung cấp một lượng vốn nhỏ  vừa đủ để nhà sáng lập có thể bắt đầu.
  
-Chúng tôi muốn giúp cho việc khởi sự doanh nghiệp mới trở nên cụ thể , rõ ràng và để giúp các nhà Sáng lập có thể 
-có những bước đi ban đầu xác đáng hơn.
+Chúng tôi muốn giúp cho việc khởi sự doanh nghiệp mới trở nên cụ thể , rõ ràng và giúp các nhà Sáng lập có thể 
+có những bước đi ban đầu xác đáng.
