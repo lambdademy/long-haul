@@ -884,10 +884,14 @@ POST STYLING
   margin-right: .45rem; }
 
 .post .featuredImage {
+
   position: relative;
   margin-top: 2rem; }
   .post .featuredImage img {
-    margin-bottom: 0; }
+
+    display:block;
+    margin:auto;
+  }
 
 /***************
 POST NAV STYLING

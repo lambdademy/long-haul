@@ -2,7 +2,7 @@
 layout: post
 title:  "LSD Ventures là gì?"
 date:   2020-04-08
-image: touring.jpg
+image: lsd-ventures.jpg
 ---
 
 <p class="intro"><span class="dropcap">LSD Ventures</span> là một công ty chuyên 
