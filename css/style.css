@@ -897,8 +897,8 @@ POST STYLING
 POST NAV STYLING
 ***************/
 .postNav {
-  border-top: 1px solid #e6e6e6;
-  border-bottom: 1px solid #e6e6e6;
+  /*border-top: 1px solid #e6e6e6;*/
+  /*border-bottom: 1px solid #e6e6e6;*/
   overflow: hidden; }
   .postNav .prev, .postNav .next {
     display: block;
@@ -952,7 +952,7 @@ FOOTER STYLING
   text-align: center;
   padding: 2rem 0; }
   .footer .container {
-    border-top: 4px solid #d9d9d9;
+    /*border-top: 4px solid #d9d9d9;*/
     padding-top: .5em;
     max-width: 90%; }
   .footer .copy, .footer .footer-links {
