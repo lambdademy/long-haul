@@ -15,3 +15,5 @@ Chúng tôi không phải là quỹ đầu tư mạo hiểm mà chỉ cung 
  
 Chúng tôi muốn giúp cho việc khởi sự doanh nghiệp mới trở nên cụ thể , rõ ràng và để giúp các nhà Sáng lập có thể 
 có những bước đi ban đầu xác đáng hơn.
+
+Để nhận được đầu tư, bạn có thể ứng tuyển ngay <a href="/apply/">tại đây</a>
